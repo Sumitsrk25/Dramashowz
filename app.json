@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Dramashowz",
+    "slug": "Dramashowz",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/DramaLogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/DramaLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "black"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/DramaLogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sumitsrk25.Dramashowz"
+    },
+    "web": {
+      "favicon": "./assets/DramaLogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "36043039-c5fd-41a1-910a-6dc4556f6e2b"
+      }
+    }
+  }
+}
